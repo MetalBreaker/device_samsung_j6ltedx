@@ -7,6 +7,7 @@ Building it is pretty straight-forward, all you have to do is clone this repo in
 This project wouldn't be possible without these people, so go show them some love!
 
 ananjaser1211 at XDA for their amazing work on the Cronos kernel which is being used
+
 @Dyneteve and @Surendrajat for their work on the TwrpBuilder device tree for this device
 
 
